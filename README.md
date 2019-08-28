@@ -7,3 +7,4 @@
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | Deploy on Day 1     |  [code](https://github.com/learn-co-students/london-web-082619/tree/master/01-deploy-on-day-1)    | [video](https://youtu.be/CIXCE-4Ha8c) |
+| Intro to OO     |  [code](https://github.com/learn-co-students/london-web-082619/tree/master/02-intro-to-oo)    | [video](https://youtu.be/KOfOBRRsIME) |
