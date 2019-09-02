@@ -10,3 +10,4 @@
 | Intro to OO     |  [code](https://github.com/learn-co-students/london-web-082619/tree/master/02-intro-to-oo)    | [video](https://youtu.be/KOfOBRRsIME) |
 | OO One to Many  | [code](https://github.com/learn-co-students/london-web-082619/tree/master/03-oo-one-to-many) | [video](https://youtu.be/8yR-dNcp3AE) |
 | OO Many to Many  | [code](https://github.com/learn-co-students/london-web-082619/tree/master/04-oo-many-to-many) | [video](https://youtu.be/_4Xrhz91QNU) |
+| Code Review - Gyms | [code](https://github.com/learn-co-students/london-web-082619) | [video](https://youtu.be/fj8OnTYbUik) |
