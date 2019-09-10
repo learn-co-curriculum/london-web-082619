@@ -13,3 +13,4 @@
 | Code Review - Gyms | [code](https://github.com/learn-co-students/london-web-082619/tree/master/05-code-review-gyms) | [video](https://youtu.be/fj8OnTYbUik) |
 | Code Review - Air BnB | [code](https://github.com/learn-co-students/london-web-082619/tree/master/06-code-review-airbnb) | [video](https://youtu.be/ktu0ACLJzlM) |
 | Ruby Project Setup | [code](https://gist.github.com/wndaiga/a7c1eb0dd1a4347fef742c0cafabcb14) | [video](https://youtu.be/fdrY8c7k4EI)|
+| Mock CLI App - Airbnb | [code]() | [video](https://youtu.be/k-7ELdwjGQQ)
