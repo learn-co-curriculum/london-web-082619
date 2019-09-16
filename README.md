@@ -19,4 +19,4 @@
 ## Module 2
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
-| Intro to Sinatra and MVC | [code](https://github.com/learn-co-students/london-web-082619/tree/master/10-sinatra-mvc-intro) | [video](https://youtu.be/oW72l9Va9Sc) |
+| Intro to Sinatra and MVC | [code](https://github.com/learn-co-students/london-web-082619/tree/master/10-sinatra-mvc-intro) | [video](https://youtu.be/bc0NfFeqiKk) |
