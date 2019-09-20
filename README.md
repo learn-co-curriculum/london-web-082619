@@ -23,3 +23,5 @@
 | Sinatra Forms and REST| [code](https://github.com/learn-co-students/london-web-082619/tree/master/11-sinatra-forms-rest) | [video](https://youtu.be/6-ekAw9fJEc) |
 | Sinatra Forms and Associated Objects | [code](https://github.com/learn-co-students/london-web-082619/tree/master/12-sinatra-forms-associated-objects) | [video](https://youtu.be/-fdZrlGqxpo) |
 | Intro to Rails | [code](https://github.com/learn-co-students/london-web-082619/tree/master/13-intro-to-rails) | [video](https://youtu.be/Zi7EZbqPsC8) |
+| Rails Forms and REST | [code](https://github.com/learn-co-students/london-web-082619/tree/master/14-rails-forms-rest) | [video](https://youtu.be/djq5ai77xb4) |
+
