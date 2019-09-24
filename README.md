@@ -26,4 +26,5 @@
 | Rails Forms and REST | [code](https://github.com/learn-co-students/london-web-082619/tree/master/14-rails-forms-rest) | [video](https://youtu.be/djq5ai77xb4) |
 | Rails Forms and Associations | [code](https://github.com/learn-co-students/london-web-082619/tree/master/15-rails-forms-associations) | [video](https://youtu.be/y7HEDAA6TrE) |
 | Rails Forms Validations | [code](https://github.com/learn-co-students/london-web-082619/tree/master/16-rails-forms-validations) | [video](https://youtu.be/AQiomytrtIU) |
+| Travelatr | [code](https://github.com/learn-co-students/london-web-082619/tree/master/18-code-review-travelatr) | [video](https://youtu.be/jBQGbgV03ZU) |
 
