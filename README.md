@@ -30,4 +30,9 @@
 | Sessions and Cookies | [code](https://github.com/learn-co-students/london-web-082619/tree/master/19-sessions-and-cookies) | [video](https://youtu.be/SxZyD3nODEk) |
 | Authentication and Authorization | [code](https://github.com/learn-co-students/london-web-082619/tree/master/20-authentication-and-authorization) | [video](https://youtu.be/CKReXJSrwso) |
 
+## Module 2
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| Intro to JS | [code](https://github.com/learn-co-students/london-web-082619/tree/master/21-just-enough-js-starter) | [video](https://www.youtube.com/watch?v=t_grkQC8R2Y) |
+
 
