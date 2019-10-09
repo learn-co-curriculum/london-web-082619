@@ -34,5 +34,7 @@
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | Intro to JS | [code](https://github.com/learn-co-students/london-web-082619/tree/master/21-just-enough-js-starter) | [video](https://www.youtube.com/watch?v=t_grkQC8R2Y) |
+| js events                 | [code](https://github.com/learn-co-students/london-web-082619/tree/master/22-js-events)                 | [video](https://youtu.be/BbuGCHCjORA)                                     |
+
 
 
