@@ -32,10 +32,10 @@
 | Sessions and Cookies                 | [code](https://github.com/learn-co-students/london-web-082619/tree/master/19-sessions-and-cookies)             | [video](https://youtu.be/SxZyD3nODEk) |
 | Authentication and Authorization     | [code](https://github.com/learn-co-students/london-web-082619/tree/master/20-authentication-and-authorization) | [video](https://youtu.be/CKReXJSrwso) |
 
-## Module 2
+## Module 3
 
 | Topic       | Code                                                                                                 | Video                                                |
 | ----------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| intro to JS | [code](https://github.com/learn-co-students/london-web-082619/tree/master/21-just-enough-js-starter) | [video](https://www.youtube.com/watch?v=t_grkQC8R2Y) |
-| js events   | [code](https://github.com/learn-co-students/london-web-082619/tree/master/22-js-events)              | [video](https://youtu.be/BbuGCHCjORA)                |
-| fetch pt1   | [code](https://github.com/learn-co-students/london-web-082619/tree/master/23-fetch)                  | [video](https://youtu.be/4wyUPe2366k)                |
+| Intro to JS | [code](https://github.com/learn-co-students/london-web-082619/tree/master/21-just-enough-js-starter) | [video](https://www.youtube.com/watch?v=t_grkQC8R2Y) |
+| Js Events   | [code](https://github.com/learn-co-students/london-web-082619/tree/master/22-js-events)              | [video](https://youtu.be/BbuGCHCjORA)                |
+| Fetch pt.1   | [code](https://github.com/learn-co-students/london-web-082619/tree/master/23-fetch)                  | [video](https://youtu.be/4wyUPe2366k)                |
