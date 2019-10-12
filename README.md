@@ -43,3 +43,4 @@
 | Fetch in Practice pt 2 | [code](https://github.com/learn-co-students/london-web-082619/tree/master/23-fetch) | [video](https://youtu.be/tuLrwlYog30) |
 |Debugger| [code](https://github.com/learn-co-students/london-web-082619/tree/master/24-debugger)| [video](https://youtu.be/4TOFK4FX8Ks) |
 |Rails API| [code](https://github.com/learn-co-students/london-web-082619/tree/master/25-rails-api)| [video](https://youtu.be/JSN3P-8fnUQ) |
+
