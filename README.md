@@ -45,4 +45,6 @@
 |Rails API| [code](https://github.com/learn-co-students/london-web-082619/tree/master/25-rails-api)| [video](https://youtu.be/JSN3P-8fnUQ) |
 |Toy Tale review| [code](https://github.com/learn-co-students/london-web-082619/tree/master/26-toy-tale-review)| [video](https://youtu.be/R-9A5SLdU7s) |
 |Functions| [code](https://github.com/learn-co-students/london-web-082619/tree/master/27-functional)| [video](https://youtu.be/qU7Z4pJbiqA) |
+|BookLiker Review| [code](https://github.com/learn-co-students/london-web-082619/tree/master/28-bookliker-review)|[video](https://youtu.be/hqD1RM7dXLA)|
+
 
