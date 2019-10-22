@@ -49,5 +49,6 @@
 |ES6| [code](https://github.com/learn-co-students/london-web-082619/tree/master/29-es6)|[video](https://www.youtube.com/watch?v=R1Y5sZ2UDKw)|
 |JS Quotes| [code](https://github.com/learn-co-students/london-web-082619/tree/master/30-quotes-review) |[video](https://www.youtube.com/watch?v=UKZRpZCjTzQ&feature=youtu.be)|
 |Pokemon Teams review| [code](https://github.com/learn-co-students/london-web-082619/tree/master/31-pokemon-teams) |[video](https://youtu.be/esfpf3JzdTs)|
+| Functions, Objects, Classes | [code](https://github.com/learn-co-students/london-web-082619/tree/master/32-functions-objects-classes) | [video](https://youtu.be/xY1ghNNFdOw) |
 
 
