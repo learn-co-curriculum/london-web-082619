@@ -52,4 +52,9 @@
 | Functions, Objects, Classes | [code](https://github.com/learn-co-students/london-web-082619/tree/master/32-functions-objects-classes) | [video](https://youtu.be/xY1ghNNFdOw) |
 | JS Tooling | [no code](null) | [video](https://youtu.be/shq_0DK5sx4) |
 
+## Module 4
+
+| Topic       | Code                                                                                                 | Video                                                |
+| ----------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+|Intro to React|[code](https://github.com/learn-co-students/london-web-082619/tree/master/33-intro-to-react)|[video](https://youtu.be/j8tzWVUd-dI)|
 
