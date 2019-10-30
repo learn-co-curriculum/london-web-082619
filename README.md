@@ -59,4 +59,5 @@
 |Intro to React|[code](https://github.com/learn-co-students/london-web-082619/tree/master/33-intro-to-react)|[video](https://youtu.be/j8tzWVUd-dI)|
 |React Props|[code](https://github.com/learn-co-students/london-web-082619/tree/master/34-react-props)|[video](https://youtu.be/SrH71Ki5pws)|
 |React State|[code](https://github.com/learn-co-students/london-web-082619/tree/master/35-react-state)|[video](https://youtu.be/WoJKQYO7C1k)|
+|Thinking in React|[code](https://github.com/learn-co-students/london-web-082619/tree/master/36-thinking-in-react-todo)|[video](https://youtu.be/fM9v18L8Xs4)|
 
