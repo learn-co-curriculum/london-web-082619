@@ -62,5 +62,5 @@
 |Thinking in React|[code](https://github.com/learn-co-students/london-web-082619/tree/master/36-thinking-in-react-todo)|[video](https://youtu.be/fM9v18L8Xs4)|
 |Component Lifecycle Methods + fetch|[code](https://github.com/learn-co-students/london-web-082619/tree/master/37-react-component-lifecycle-methods)|i didn't record this morning's lecture, sorry. [here's an old one](https://www.youtube.com/watch?v=7zXah85Gk0w&feature=youtu.be)|
 |Hogwarts Review|[code](https://github.com/learn-co-students/london-web-082619/tree/master/38-react-hogwarts-review)|[video](https://youtu.be/sivfvhthvMs)|
-|Sushi Saga Review|[code](https://github.com/learn-co-students/london-web-082619/tree/master/39-Sushi-Saga-Review)|[Sam's video](https://www.youtube.com/watch?v=3XvwDCpqdxs&feature=youtu.be)|[Basic form](https://youtu.be/o3Ls49fu_YY)|
+|Sushi Saga Review|[code](https://github.com/learn-co-students/london-web-082619/tree/master/39-Sushi-Saga-Review)|[Sam's video](https://www.youtube.com/watch?v=3XvwDCpqdxs&feature=youtu.be)[ Basic form](https://youtu.be/o3Ls49fu_YY)
 
