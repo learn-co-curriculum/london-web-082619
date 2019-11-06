@@ -65,13 +65,4 @@
 |Sushi Saga Review|[code](https://github.com/learn-co-students/london-web-082619/tree/master/39-Sushi-Saga-Review)|[Sam's video](https://www.youtube.com/watch?v=3XvwDCpqdxs&feature=youtu.be)[ Basic form](https://youtu.be/o3Ls49fu_YY)|
 |React Hooks|[code](https://github.com/learn-co-students/london-web-082619/tree/master/40-React-Hooks)|[video](https://youtu.be/dcadJMm2r24)|
 |Stocks Review|[code ](https://github.com/learn-co-students/london-web-082619/tree/master/41-React-Stocks-Review)| [video1 ](https://youtu.be/d1EeIdDEfMY)[video2 ](https://youtu.be/GeqDTazYJLs)[video3 ](https://youtu.be/cTlaVIn1OE8)|
-
-
-
-
-
-
-
-
-
-
+| React Router |[code](https://github.com/learn-co-students/london-web-082619/tree/master/42-React-Router) |[video](https://youtu.be/rR9M2sEMhjk)|
