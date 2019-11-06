@@ -1,8 +1,8 @@
 # london-web-082619
 
 ## Calendar
+<iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_t4rifatcofomhbgc00g34v6bpo%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://calendar.google.com/calendar/b/0/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FLondon&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX3Q0cmlmYXRjb2ZvbWhiZ2MwMGczNHY2YnBvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX2M4ZWo2dWdsbmMxbnE2NnQ5ajlyZHBwN20wQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23E4C441&amp;color=%23F6BF26&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Module 1
 
