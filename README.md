@@ -67,3 +67,5 @@
 |Stocks Review|[code ](https://github.com/learn-co-students/london-web-082619/tree/master/41-React-Stocks-Review)| [video1 ](https://youtu.be/d1EeIdDEfMY)[video2 ](https://youtu.be/GeqDTazYJLs)[video3 ](https://youtu.be/cTlaVIn1OE8)|
 | React Router |[code](https://github.com/learn-co-students/london-web-082619/tree/master/42-React-Router) |[video](https://youtu.be/rR9M2sEMhjk)|
 | React Auth |[code](https://github.com/learn-co-students/london-web-082619/tree/master/43-react-auth) | videos: [Part 1](https://youtu.be/KlqTbYOOz34) - [Part 2](https://youtu.be/TmKoUohxSxg) |
+| Redux Intro |[code](https://github.com/learn-co-students/london-web-082619/tree/master/44-redux) | [video](https://youtu.be/lXQ_fYDHeNA) |
+
