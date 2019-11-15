@@ -68,4 +68,5 @@
 | React Router |[code](https://github.com/learn-co-students/london-web-082619/tree/master/42-React-Router) |[video](https://youtu.be/rR9M2sEMhjk)|
 | React Auth |[code](https://github.com/learn-co-students/london-web-082619/tree/master/43-react-auth) | videos: [Part 1](https://youtu.be/KlqTbYOOz34) - [Part 2](https://youtu.be/TmKoUohxSxg) |
 | Redux Intro |[code](https://github.com/learn-co-students/london-web-082619/tree/master/44-redux) | [video](https://youtu.be/lXQ_fYDHeNA) |
+| Redux Redux |[code](https://github.com/learn-co-students/london-web-082619/tree/master/45-react-redux) | [video](https://youtu.be/4EiLDG45MFc) |
 
